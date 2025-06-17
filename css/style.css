@@ -25,3 +25,20 @@ body {
     margin-right: 10px;
     margin-bottom: 10px;
 }
+
+.ownedCards ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.ownedCards li {
+    display: inline;
+    margin: 0px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.unowned-card img {
+    filter: brightness(50%);
+}
